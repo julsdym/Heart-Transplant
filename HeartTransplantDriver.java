@@ -5,7 +5,7 @@
  * 
  * Use this class to test HeartTransplant's methods.
  * 
- * @author Haolin (Daniel) Jin
+ * @author Julia Dymnicki
  */
 
 public class HeartTransplantDriver {
