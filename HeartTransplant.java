@@ -2,8 +2,7 @@
  * 
  * HeartTransplant class
  * 
- * @author Ana Paula Centeno
- * @author Haolin (Daniel) Jin
+ * @author Julia Dymnicki
  */
 public class HeartTransplant {
 
